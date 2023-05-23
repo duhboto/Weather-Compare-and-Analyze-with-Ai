@@ -1,4 +1,4 @@
-# Weather-Compare-and-Analyze-with-Ai
+# Weather Compare & Analyze
 
 The Weather Compare & Analyze application is a graphical user interface (GUI) program that enables users to compare weather data between two locations and generate detailed weather analysis. The app utilizes the OpenWeatherMap API and the OpenAI API to fetch weather data and perform artificial intelligence-powered analysis.
 
@@ -26,3 +26,15 @@ The Weather Compare & Analyze application is a graphical user interface (GUI) pr
 
 1. Ensure Python 3.x is installed on your system.
 2. Install the required libraries using the following command:
+pip install -r requirements.txt
+
+bash
+Copy code
+3. Download the "WeatherApp.py" file to your local machine.
+4. Run the application by executing the following command:
+python WeatherApp.py
+
+vbnet
+Copy code
+
+Enjoy using the Weather Compare & Analyze application to explore weather data, 
