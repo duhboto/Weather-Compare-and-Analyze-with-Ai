@@ -1,0 +1,6 @@
+tkinter==0.1.0
+requests==2.25.1
+geocoder==1.38.1
+matplotlib==3.4.3
+openai==0.30.0
+keyring==23.0.0
