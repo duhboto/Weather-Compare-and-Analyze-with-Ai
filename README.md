@@ -1,4 +1,4 @@
-# Weather Compare & Analyze
+# Weather Compare & Analyze with AI
 
 The Weather Compare & Analyze application is a graphical user interface (GUI) program that enables users to compare weather data between two locations and generate detailed weather analysis. The app utilizes the OpenWeatherMap API and the OpenAI API to fetch weather data and perform artificial intelligence-powered analysis.
 
